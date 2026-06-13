@@ -1,0 +1,11 @@
+Comandos ejecutados:
+
+`uname -a` -> Muestra información del kernel y la arquitectura del sistema.
+Salida:
+Linux codespaces-ac94d4 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+`whoami` -> Muestra el usuario actual conectado.
+Salida:
+codespace
+
+Por qué es útil: Conocer la versión del kernel, arquitectura y el usuario actual ayuda al administrar servidores, instalar paquetes compatibles y auditar acciones realizadas por usuarios.
